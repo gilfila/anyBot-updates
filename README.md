@@ -1,7 +1,7 @@
-# anyBot for Windows
+# Any Bot for Windows
 
-[**Download anyBot 0.3.4 — Windows installer**](https://github.com/gilfila/anyBot-updates/releases/download/v0.3.4/anyBot-Setup-0.3.4.exe)
+[**Download Any Bot 0.3.10 — Windows installer**](https://github.com/gilfila/anyBot-updates/releases/download/v0.3.10/anyBot-Setup-0.3.10.exe)
 
-Run the installer. Existing installations can use **Check for updates** inside anyBot.
+Run the installer. Existing installations can use **Check for updates** inside Any Bot.
 
 This repository hosts installation and update files. The application's development repository is private.
