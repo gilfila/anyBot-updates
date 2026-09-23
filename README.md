@@ -1,2 +1,7 @@
-# anyBot-updates
-Binary-only update feed for anyBot desktop
+# anyBot for Windows
+
+[**Download anyBot 0.3.4 — Windows installer**](https://github.com/gilfila/anyBot-updates/releases/download/v0.3.4/anyBot-Setup-0.3.4.exe)
+
+Run the installer. Existing installations can use **Check for updates** inside anyBot.
+
+This repository hosts installation and update files. The application's development repository is private.
