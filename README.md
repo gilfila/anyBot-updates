@@ -1,6 +1,6 @@
 # anyBot for Windows
 
-[**Download anyBot 0.3.33 — Windows installer**](https://github.com/gilfila/anyBot-updates/releases/download/v0.3.33/anyBot-Setup-0.3.33.exe)
+[**Download anyBot 0.3.34 — Windows installer**](https://github.com/gilfila/anyBot-updates/releases/download/v0.3.34/anyBot-Setup-0.3.34.exe)
 
 Run the installer. Existing installations can use **Check for updates** inside anyBot.
 
